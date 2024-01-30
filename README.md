@@ -34,9 +34,9 @@ _Difference Between Actions_
 - __Pull Requests__ : Proposing, reviewing and merging code changes
     - Can be linked to Issues
  
-__Issues Linking__
+__To Link Issues__
 
-- In the developement tab on right column; issues and branches can be linked.
+- Open developement tab (right column); issues and branches will be linked by number.
 
 
  ##### Using Keywords in Issues & Pull Requests
