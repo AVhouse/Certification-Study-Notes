@@ -61,6 +61,18 @@ Issues can be displayed on issue dashboard. To find a specific issue search by:
 - Your Pull Requests
 - Everything assigned to You
 - Everything mentioning You
+- View advanced search syntax
+
+```bash
+# THIS IS advanced search syntax
+is:issue author:username label:bug
+is:issue label:bug label:urgent state:open 
+is:issue assignee:username milestone:"v1.0"
+is:issue no:assignee repo:username/repository comments:>=10
+is:issue created:>=2022-01-01 created:<=2022-12-31
+is:issue involves:username comments:0
+is:issue language:python updated:>2022-01-01
+```
 
 
 
