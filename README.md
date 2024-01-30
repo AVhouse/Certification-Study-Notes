@@ -33,6 +33,22 @@ _Difference Between Actions_
 
 - __Pull Requests__ : Proposing, reviewing and merging code changes
     - Can be linked to Issues
+ 
+
+##### Using Keywords in Issues & Pull Requests
+To link a pull request to an issue to show that a fix is in progress and to automatically close the issue when         someone merges the pull requests. Use Keyword followed by the issue (example `closes #10`)
+
+Keywords
+- close
+- closes
+- closed
+- fix
+- fixes
+- fixed
+- resolve
+- resolves
+- resolved
+    
 
 
 
