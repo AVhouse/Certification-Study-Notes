@@ -18,5 +18,22 @@ Types of Insights
 - **Network** : Shows fork relationships and variations
 - **Forks** : Number and links to repo forks
 
+### GitHub Issues
+
+_Difference Between Actions_
+
+- __Issues__ : Are for tracking tasks, bugs, and enhancements
+    - usually linked to code changes
+    - can be linked to Pull Requests
+
+- __Discussions__ : For communication and Q & A
+    - by topic
+    - can be converted to issue (soft link)
+    - Not directly related to code changes
+
+- __Pull Requests__ : Proposing, reviewing and merging code changes
+    - Can be linked to Issues
+
+
 
 
