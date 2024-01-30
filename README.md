@@ -34,8 +34,12 @@ _Difference Between Actions_
 - __Pull Requests__ : Proposing, reviewing and merging code changes
     - Can be linked to Issues
  
+__Issues Linking__
 
-##### Using Keywords in Issues & Pull Requests
+- In the developement tab on right column; issues and branches can be linked.
+
+
+ ##### Using Keywords in Issues & Pull Requests
 To link a pull request to an issue to show that a fix is in progress and to automatically close the issue when         someone merges the pull requests. Use Keyword followed by the issue (example `closes #10`)
 
 Keywords
@@ -48,7 +52,15 @@ Keywords
 - resolve
 - resolves
 - resolved
-    
+
+#### Ways to Filter Issues
+
+Issues can be displayed on issue dashboard. To find a specific issue search by:
+- Open Issues
+- Your Issues
+- Your Pull Requests
+- Everything assigned to You
+- Everything mentioning You
 
 
 
