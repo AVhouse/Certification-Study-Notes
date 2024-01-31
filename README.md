@@ -5,10 +5,9 @@
 ### Types of Accounts
 
 ### GitHub Repos
+> Repo Stats are tracked through Repo insights
 
-##### Repo Insights
-
-Types of Insights
+<ins>Types of Repo Insights</ins>
 - **Pulse** : Overview of recent activity (pull requests, issues)
 - **Contributors** : Displays activity stats base on contributors
 - **Community Standards** : Shows community health files
@@ -95,6 +94,14 @@ __Issue Forms__ (Beta)
 *evolution of issue templates*
 
 - YAML formatted file to create issue form for stricter entry of issue information.
+
+### GitHub Pull Requests
+
+> A Pull Request (PR) is a formal process to put forth changes, that can be manually or automatically reviewed before its accepted into the code base main branch.
+
+Benefits of Pull Requests
+1. Collaborative Review: enhances code quality through team discussion.
+2. Change Tracking: Provides record of code changes and related discussions.
 
 
 
