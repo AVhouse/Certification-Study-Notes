@@ -99,9 +99,23 @@ __Issue Forms__ (Beta)
 
 > A Pull Request (PR) is a formal process to put forth changes, that can be manually or automatically reviewed before its accepted into the code base main branch.
 
-Benefits of Pull Requests
+<ins>Benefits of Pull Requests (Not unique to GitHub) </ins>
 1. Collaborative Review: enhances code quality through team discussion.
 2. Change Tracking: Provides record of code changes and related discussions.
+3. Automated Testing: Enables CI/CD integration tools
+4. Controlled Integration: Manages safe and reviewed merging of code changes
+5. Open Source Friendly: Simplifies contributions and collaboration in open-source projects.
+
+Ways to Create PR
+- In GitHub repo, green New Pull Request button, then Create pull request
+- In GitHub CLI, example create PR from a branch (below)
+  
+  ```bash
+  git checkout -b new-feature-branch
+  git commit -am "My commit message"
+  git push -u origin new-feature-branch
+  gh pr create --base main --head new-feature-branch
+  ```
 
 
 
