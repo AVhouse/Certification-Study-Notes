@@ -126,7 +126,15 @@ Ways to Create PR
     - Compare across forks
       > This checks two branch for what changed or starts new pull request.
 
+#### Draft Pull Request (*Only on Organizations Teams*)
 
+<ins>Use Case for Draft Pull Requests</ins>
+1. Indicates work-in-progree (WIP)
+2. Prevents Premature Merging
+3. Facilitates Early Feedback and Collaboration
+4. COntinuous Integration Testing
+5. Transitioning to a Ready State
+6. Organiaing Work and Priorities
 
 
 
