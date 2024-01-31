@@ -74,6 +74,6 @@ is:issue involves:username comments:0
 is:issue language:python updated:>2022-01-01
 ```
 
-
+[Complete Advanced Search Commands](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
 
 
