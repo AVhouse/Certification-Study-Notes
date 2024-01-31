@@ -20,6 +20,8 @@ Types of Insights
 
 ### GitHub Issues
 
+> Up to three issues can be pinned to a repo.
+
 _Difference Between Actions_
 
 - __Issues__ : Are for tracking tasks, bugs, and enhancements
