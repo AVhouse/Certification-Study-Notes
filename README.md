@@ -117,6 +117,15 @@ Ways to Create PR
   gh pr create --base main --head new-feature-branch
   ```
 
+  #### Base and Compare
+  > This determines the direction of the merge for a pull request
+
+  - __Base__ is where you want to merge into (usually main branch)
+  - __Compare__ is what (normally feature branch) will be merged into Base (this chooses Head reference)
+
+    - Compare across forks
+      > This checks two branch for what changed or starts new pull request.
+
 
 
 
