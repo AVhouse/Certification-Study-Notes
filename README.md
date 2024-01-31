@@ -42,7 +42,7 @@ __To Link Issues__
  ##### Using Keywords in Issues & Pull Requests
 To link a pull request to an issue to show that a fix is in progress and to automatically close the issue when         someone merges the pull requests. Use Keyword followed by the issue (example `closes #10`)
 
-Keywords
+<ins>Keywords</ins>
 - close
 - closes
 - closed
@@ -75,5 +75,17 @@ is:issue language:python updated:>2022-01-01
 ```
 
 [Complete Advanced Search Commands](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
+
+__Issue Templates__
+
+It is possible to create issue templates, to help ensure all relevant information is included with new issues.
+
+<ins>__3 Default GitHub issue templates__</ins>
+- Bug Report
+- Feature Report
+- Report a security vulnerability
+
+Here is the documentation [Link](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) on how to create and use issue templates.
+
 
 
