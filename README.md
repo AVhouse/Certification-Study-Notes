@@ -88,6 +88,12 @@ Issue Templates are <ins>stored as markdown files in</ins>  **.github/ISSUE_TEMP
 
 Here is the documentation [Link](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) on how to create and use issue templates.
 
+__Issue Forms__ (Beta)
+
+*evolution of issue templates*
+
+- YAML formatted file to create issue form for stricter entry of issue information.
+
 
 
 
