@@ -117,6 +117,18 @@ Ways to Create PR
   gh pr create --base main --head new-feature-branch
   ```
 
+  #### Pull Request Statuses
+
+  - Open : Default when PR is created
+  - Draft : PR is work-in-progress, not yet ready for review
+  - Closed : PR closed without being merged, when changes no longer needed
+  - Merged : Successful adding to target branch
+  - Changes Requested : Used during review process, before merged
+  - Review Required : When mandatory reviews are part of workflow
+  - Approved : When PR has been reviewed and approved by required number of reviewers.
+  - Conflict : requesting branch and target branch need conflicts resolved before review
+  - Ready for Review : Initial requests marked as drafts can be changed to this status when ready.
+
   #### Base and Compare
   > This determines the direction of the merge for a pull request
 
@@ -127,6 +139,7 @@ Ways to Create PR
       > This checks two branch for what changed or starts new pull request.
 
 #### Draft Pull Request (*Only on Organizations Teams*)
+> Note for test; 1) these cannot be merged 2) code owners not automatically requested to review
 
 <ins>Use Case for Draft Pull Requests</ins>
 1. Indicates work-in-progree (WIP)
@@ -135,6 +148,16 @@ Ways to Create PR
 4. COntinuous Integration Testing
 5. Transitioning to a Ready State
 6. Organiaing Work and Priorities
+
+#### Merging a Pull Request Options
+1. Create a merge commit : All commits will be added
+2. Squash and merge : 1 commit will be added
+3. Rebase and merge : 1 commit will be added and rebased
+
+#### Pull Request Review
+- Required Reviewers can be set to approve any PR
+- Reviewers can make comments about PR and require addition changes
+- Comments CAN be made on <ins>single line of code</ins> 
 
 
 
