@@ -79,6 +79,7 @@ is:issue language:python updated:>2022-01-01
 __Issue Templates__
 
 It is possible to create issue templates, to help ensure all relevant information is included with new issues.
+Issue Templates are <ins>stored as markdown files in </ins> **.github/ISSUE_TEMPLATES** folder in the repo.
 
 <ins>__3 Default GitHub issue templates__</ins>
 - Bug Report
@@ -86,6 +87,8 @@ It is possible to create issue templates, to help ensure all relevant informatio
 - Report a security vulnerability
 
 Here is the documentation [Link](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) on how to create and use issue templates.
+
+
 
 
 
