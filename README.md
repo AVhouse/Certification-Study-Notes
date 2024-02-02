@@ -160,4 +160,24 @@ Ways to Create PR
 - Comments CAN be made on <ins>single line of code</ins> 
 
 
+## Codespaces
+> Cloud Developer Environment (CDE) integrated with your GitHub repo
+
+__Interact with codespaces through:__
+- Command Line (SSH via GitHub CLI)
+- Code Editors
+      - VS Code Browser & Desktop
+      - JetBrains IDE
+
+__When new Codespace is created choose__
+- Repo
+- Branch
+- Region
+- Machine Type
+
+__Codespace Lifecycle__
+- Create/Reopen
+- Running
+- Timeout
+- Stop
 
